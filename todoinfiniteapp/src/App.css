@@ -1,0 +1,43 @@
+.todo {
+  padding: 20px;
+  font-size: 16px;
+}
+.task {
+  padding: 10px;
+  padding-left: 30px;
+}
+
+.showButton, .addButton {
+  height: 16px;
+  vertical-align: bottom;
+  margin: 0 10px;
+  cursor: pointer;
+}
+.showButton:hover, .addButton:hover {
+  height: 18px;
+}
+.add-task-wrapper {
+  padding: 20px;
+}
+.add-task-input {
+  border: none;
+}
+.activeTask {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.menu-button {
+  height: 16px;
+  vertical-align: bottom;
+  margin: 0 10px;
+  cursor: pointer;
+}
+.completed {
+  text-decoration: line-through;
+  opacity: .4;
+}
+.menu-button-wrapper {
+  width: 120px;
+  display: inline-block;
+}

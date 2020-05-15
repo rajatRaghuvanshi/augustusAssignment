@@ -1,0 +1,16 @@
+Ques. In the above task, if you also had to incorporate images/media?
+Ans - If I need to include media then we can opt for either approach
+    a. 
+        - Store media file in aws S3 or any other cloud platform
+        - then store file key of file in database 
+        - access with key in app whenever we want.
+        - we can opt for public or private access 
+    b. 
+        - Store the files in server location
+        - store the key or file name in database
+        - serve file from server whenever needed
+
+
+Ques. If you are using GraphQL and Redux on your front end.
+Ans.  Sorry about that. I never worked on GraphQL. 
+    

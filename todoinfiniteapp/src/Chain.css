@@ -1,0 +1,11 @@
+.chain {
+    padding: 20px;
+}
+.chain-arrow {
+    height: 16px;
+    vertical-align: bottom;
+    margin: 0 10px;
+}
+.chain-title {
+    cursor: pointer;
+}
